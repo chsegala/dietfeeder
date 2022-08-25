@@ -1,0 +1,4 @@
+awscrt==0.13.13
+awsiotsdk==1.11.3
+OPi.GPIO==0.5.2
+
